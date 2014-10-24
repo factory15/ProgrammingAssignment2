@@ -1,5 +1,5 @@
 
-## this function takes a matrix as its argument and sets and retrieves the inverse of the matrix
+## this function takes a matrix as its argument and sets and retrieves the inverse of that matrix
 ## 
 
 
